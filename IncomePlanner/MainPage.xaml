@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="IncomePlanner.MainPage">
+
+    <StackLayout Orientation="Vertical" Padding="16">
+
+        <Label Text="Start developing now" 
+               FontSize="Title" 
+               HorizontalTextAlignment="Center" 
+               Margin="16"
+			   x:Name="label"
+               Padding="30,10,30,10"/>
+
+        <Entry Keyboard="Numeric"
+               AutomationProperties.IsInAccessibleTree="True"
+               ReturnType="Next"               
+               Placeholder="$ expenses"
+			   x:Name="expenses"
+               Margin="16">
+
+        </Entry>
+
+        <Entry Keyboard="Numeric"
+               AutomationProperties.IsInAccessibleTree="True"
+               ReturnType="Next"
+               Placeholder="$ per hour"
+			   x:Name="perHour"
+               Margin="16">
+
+        </Entry>
+        
+        <Entry Keyboard="Numeric"
+               AutomationProperties.IsInAccessibleTree="True"
+               ReturnType="Next"
+               Placeholder="Hours worked"
+			   x:Name="hours"
+               Margin="16">
+
+        </Entry>
+        
+        <Entry Keyboard="Numeric"
+               AutomationProperties.IsInAccessibleTree="True"
+               ReturnType="Done"
+               Placeholder="$ from overtime"
+			   x:Name="overtime"
+               Margin="16">
+        </Entry>
+		
+		<Button
+			x:Name="submitBtn"
+			Text="Calculate"
+			Clicked="SubmitBtn_Clicked"
+			/>
+
+
+	</StackLayout>
+
+</ContentPage>

@@ -1,0 +1,13 @@
+C:\Users\Warren\source\repos\IncomePlanner\IncomePlanner\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Warren\source\repos\IncomePlanner\IncomePlanner\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Warren\source\repos\IncomePlanner\IncomePlanner\obj\Debug\netstandard2.0\IncomePlanner.AssemblyInfoInputs.cache
+C:\Users\Warren\source\repos\IncomePlanner\IncomePlanner\obj\Debug\netstandard2.0\IncomePlanner.AssemblyInfo.cs
+C:\Users\Warren\source\repos\IncomePlanner\IncomePlanner\obj\Debug\netstandard2.0\IncomePlanner.csproj.CoreCompileInputs.cache
+C:\Users\Warren\source\repos\IncomePlanner\IncomePlanner\obj\Debug\netstandard2.0\IncomePlanner.dll
+C:\Users\Warren\source\repos\IncomePlanner\IncomePlanner\obj\Debug\netstandard2.0\ref\IncomePlanner.dll
+C:\Users\Warren\source\repos\IncomePlanner\IncomePlanner\obj\Debug\netstandard2.0\IncomePlanner.pdb
+C:\Users\Warren\source\repos\IncomePlanner\IncomePlanner\bin\Debug\netstandard2.0\IncomePlanner.deps.json
+C:\Users\Warren\source\repos\IncomePlanner\IncomePlanner\bin\Debug\netstandard2.0\IncomePlanner.dll
+C:\Users\Warren\source\repos\IncomePlanner\IncomePlanner\bin\Debug\netstandard2.0\ref\IncomePlanner.dll
+C:\Users\Warren\source\repos\IncomePlanner\IncomePlanner\bin\Debug\netstandard2.0\IncomePlanner.pdb
+C:\Users\Warren\source\repos\IncomePlanner\IncomePlanner\obj\Debug\netstandard2.0\XamlC.stamp
